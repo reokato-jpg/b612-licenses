@@ -16,7 +16,7 @@
       "expires_at": "2099-12-31"
     },
     "03bf789f55fa1b49024b8b7259e738d2a93c7be017c9980882844911f0104420": {
-      "status": "revoked",
+      "status": "active",
       "expires_at": "2099-12-31"
     }
   }
