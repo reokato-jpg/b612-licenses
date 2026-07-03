@@ -1,7 +1,8 @@
 {
-  "_comment": "b612 PUBLIC license status. Revoke=set status to \"revoked\". Extend=change expires_at. Grace: if unreachable, b612 allows a few days. Map key = sha256(license_key) lowercase hex.",
+  "_comment": "b612 PUBLIC license status. Revoke=set status to \"revoked\". Extend=change expires_at. latest_version=最新版(yyyyMMdd)。Map key = sha256(license_key).",
   "schema_version": 1,
   "updated_at": "2026-07-03",
+  "latest_version": "20260703",
   "licenses": {
     "8bb4ed4c5561be954417504e9a07bf063216cae807fb03ae075f680a8ceeb748": {
       "status": "active",
