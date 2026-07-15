@@ -2,7 +2,7 @@
   "_comment": "b612 PUBLIC license status. Revoke=set status to \"revoked\". Extend=change expires_at. latest_version=最新版(yyyyMMdd)。Map key = sha256(license_key).",
   "schema_version": 1,
   "updated_at": "2026-07-03",
-  "latest_version": "20260713",
+  "latest_version": "20260715",
   "licenses": {
     "8bb4ed4c5561be954417504e9a07bf063216cae807fb03ae075f680a8ceeb748": {
       "status": "active",
@@ -33,6 +33,10 @@
       "expires_at": "2099-12-31"
     },
     "5457a925750ab87edafae0660debc41a74b6c4d35923d9f53dff73d38ddc8e54": {
+      "status": "active",
+      "expires_at": "2099-12-31"
+    },
+    "5d46ace366435e02af0cbe0e26f197f6919ea1ebf3ac6b3fa0c130184d0618ea": {
       "status": "active",
       "expires_at": "2099-12-31"
     }
