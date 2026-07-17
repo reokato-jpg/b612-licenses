@@ -41,7 +41,7 @@
       "expires_at": "2099-12-31"
     },
     "61897dbff0f9d25e48e947e22465a5df59c2d72387cd7ec4b63f997b6e1cf45e": {
-      "status": "active",
+      "status": "revoked",
       "expires_at": "2099-12-31",
       "_test": "killswitch-e2e"
     }
